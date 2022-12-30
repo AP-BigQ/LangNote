@@ -1,2 +1,2 @@
-# LanNote
+# LangNote
 Language Learning Notes
